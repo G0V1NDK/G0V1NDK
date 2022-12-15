@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 🤝 I’m looking for help with **Swift**
-
 - 📫 How to reach me **govind.kush2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
