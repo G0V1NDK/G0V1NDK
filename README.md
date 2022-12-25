@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Govind Kushwaha</h1>
 <h3 align="center">Welcome to my GITHUB Profile</h3>
 
-<img align="right" width="400" alt="cool_coding" src="https://media.giphy.com/media/cegAA2LlR200FMQbgG/giphy.gif">
+<!-- <img align="right" width="400" alt="cool_coding" src="https://media.giphy.com/media/cegAA2LlR200FMQbgG/giphy.gif"> -->
+<img align="right" width="400" alt="cool_coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g0v1ndk&label=Profile%20views&color=0e75b6&style=flat" alt="g0v1ndk" /> </p>
 
@@ -20,7 +21,12 @@
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0v1ndk&" alt="g0v1ndk" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0v1ndk&" alt="g0v1ndk" /></p>
 <p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=g0v1ndk&show_icons=true&locale=en" alt="g0v1ndk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0v1ndk&show_icons=true&locale=en&layout=compact" alt="g0v1ndk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0v1ndk&show_icons=true&locale=en&layout=compact" alt="g0v1ndk" /></p> -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=g0v1ndk&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=g0v1ndk&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0v1ndk&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
